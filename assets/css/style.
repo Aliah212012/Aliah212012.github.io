@@ -1,0 +1,63 @@
+header {
+    background-image: linear-gradient(#FFD1DF, white, #FFD1DF);
+    height:150px;
+}
+
+nav {
+    background-color: #FFD1DF;
+    border-top: 3px solid white;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 3px solid white;
+}
+
+nav a {
+    font-size: 20px;
+    color: palevioletred;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pariss {
+    font-size: 25px;
+    border-bottom: 2px dotted pink;
+}
+
+.dubaii {
+    font-size: 25px;
+    border-bottom: 2px dotted pink;
+}
+
+.Newyorkk {
+    font-size: 25px;
+    border-bottom: 2px dotted pink;
+}
+
+.Italyy {
+    font-size: 25px;
+    border-bottom: 2px dotted pink;
+}
+
+.paris {
+    border: 3px  solid #FFD1DF;
+    container: flex;
+
+}
+
+.dubai {
+    border: 3px  solid #FFD1DF;
+    container: flex;
+
+}
+
+.newyork {
+    border: 3px  solid #FFD1DF;
+    container: flex;
+
+}
+
+.italy {
+    border: 3px  solid #FFD1DF;
+    container: flex;
+
+}
